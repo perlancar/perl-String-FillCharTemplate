@@ -1,15 +1,3 @@
-0.021   2025-08-02  Released-By: PERLANCAR; Urgency: medium
+0.001   2026-01-20  Released-By: PERLANCAR
 
-        - Add function: majority_prefix.
-
-
-0.020   2024-05-16  Released-By: PERLANCAR; Urgency: low
-
-        - No functional changes.
-
-        - [doc] Mention CLI.
-
-
-0.01    2014-12-10  Released-By: PERLANCAR
-
-        - First release. Split from SHARYANTO-String-Util.
+        - First release.
