@@ -44,6 +44,7 @@ Usage:
 
  my $result = fill_char_template($template, $str);
 
+
 =head1 SEE ALSO
 
 =head2 perl format
